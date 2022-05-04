@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phthalate-chart/static/css/main.80b499dd.css",
-    "main.js": "/phthalate-chart/static/js/main.cab8f219.js",
+    "main.js": "/phthalate-chart/static/js/main.e9d9a335.js",
     "static/js/787.5480e000.chunk.js": "/phthalate-chart/static/js/787.5480e000.chunk.js",
     "index.html": "/phthalate-chart/index.html",
     "main.80b499dd.css.map": "/phthalate-chart/static/css/main.80b499dd.css.map",
-    "main.cab8f219.js.map": "/phthalate-chart/static/js/main.cab8f219.js.map",
+    "main.e9d9a335.js.map": "/phthalate-chart/static/js/main.e9d9a335.js.map",
     "787.5480e000.chunk.js.map": "/phthalate-chart/static/js/787.5480e000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80b499dd.css",
-    "static/js/main.cab8f219.js"
+    "static/js/main.e9d9a335.js"
   ]
 }
